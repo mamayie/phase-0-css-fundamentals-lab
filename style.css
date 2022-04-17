@@ -1,45 +1,26 @@
 body {
+  text-align: center;
   width: 100%;
   height: 100%;
   margin: 0;
 }
-
-h1{
-  text-align: center;
-  font-size: medium;
+nav > a {
+  padding: 0 10px;
+  background-color: aquamarine;
 }
 
-nav{
-  text-align: center;
+figcaption{
   font-size: small;
 }
- .center{
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-   width: 50%;
 
-}
-
-section p{
+#featured-property>p{
   width: 800px;
-  text-align: center;
+  margin: auto;
+  padding: 10px 0;
 }
 
-div{
+#details>div{
   float: left;
-}
-
-div {
-  float: left;
-}
-
-
-
-div{
-  float: left;
-} 
-
-div{
-  float: left;
+  width: 25%;
+  background-color: red;
 }
