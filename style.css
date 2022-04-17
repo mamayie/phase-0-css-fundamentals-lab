@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  text-align: center;
+  font-size: medium;
+}
+
+nav{
+  text-align: center;
+  font-size: small;
+}
+ .center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+
+}
+
+section p{
+  width: 800px;
+  text-align: center;
+}
+
+div{
+  float: left;
+}
+
+div {
+  float: left;
+}
+
+
+
+div{
+  float: left;
+} 
+
+div{
+  float: left;
+}
